@@ -9,7 +9,7 @@ int main(){
         */
 
 int age;
-int a, b;
+int a, b, c;
 printf("enter age: ");
 scanf("%d", &age);
 
