@@ -9,6 +9,7 @@ int main(){
         */
 
 int age;
+int a, b;
 printf("enter age: ");
 scanf("%d", &age);
 
